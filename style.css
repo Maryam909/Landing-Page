@@ -32,6 +32,7 @@ body {
   width: 22rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  margin-left: 2rem;
 }
 .navbar{
   height: auto;
@@ -225,6 +226,7 @@ footer {
   background-color: #18394b;
   width: 100%;
   align-items: center;
+  justify-content: space-evenly;
 }
 
 footer a {
