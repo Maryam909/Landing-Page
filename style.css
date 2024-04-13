@@ -218,9 +218,10 @@ button {
   font-size: 15px;
 }
 footer {
+  border-top: 2px solid #990011;
   display: flex;
   flex-direction: row;
-  background-color: #990011;
+  background-color: #FCF6F5;
   width: 100%;
   align-items: center;
   justify-content: space-evenly;
@@ -228,8 +229,8 @@ footer {
 
 footer a {
   text-decoration: none;
-  background: #990011;
-  color: aliceblue;
+  background: #FCF6F5;
+  color: #990011;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -237,8 +238,8 @@ footer a {
 }
 
 span{
-  background: #990011;
-  color: white;
+  color: #990011;
+  background-color: #FCF6F5;
   padding: 50px;
   
 }
