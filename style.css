@@ -23,7 +23,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 0.15rem  solid #18394b;
+  border-bottom: 0.15rem  solid #FF8C00;
   flex-wrap: wrap;
   background: rgb(212, 211, 211);
 }
@@ -85,7 +85,7 @@ body {
   height: 3em;
   border-radius: 30px;
   background: white;
-  border: 0.12em solid #18394b;
+  border: 0.12em solid #FF8C00;
 }
 .start{
   font-size: 1rem;
@@ -97,7 +97,7 @@ body {
   margin-top: 2em;
   font-weight: bold;
   color: white;
-  background: #18394b;
+  background: #FF8C00;
 }
 .center-img img{
   height: auto;
@@ -133,7 +133,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   padding: 2em;
-  color:#18394b;
+  color:#FF8C00;
   line-height: 25px;
   font-size: 1.2rem;
 }
@@ -147,7 +147,7 @@ h1 {
   align-items: center;
   justify-content: center;
   padding: 1em;
-  color:#18394b;
+  color:#FF8C00;
   display: block;
 }
 #video img{
@@ -170,7 +170,7 @@ h1 {
 .product {
   display: flex;
   flex-direction: column;
-  border: 0.1em solid #18394b;
+  border: 0.1em solid #FF8C00;
   text-align: center;
   justify-content: stretch;
   align-items: center;
@@ -190,7 +190,7 @@ h1 {
 }
 
 .product-title {
-  background: #18394b;
+  background: #FF8C00;
   font-weight: bold;
   display: flex;
   align-items: center;
@@ -212,7 +212,7 @@ ol {
 button {
   border-radius: 25px;
   width: 10em;
-  background: #18394b;
+  background: #FF8C00;
   color: white;
   height: 3em;
   font-weight: bold;
@@ -223,7 +223,7 @@ button {
 footer {
   display: flex;
   flex-direction: row;
-  background-color: #18394b;
+  background-color: #FF8C00;
   width: 100%;
   align-items: center;
   justify-content: space-evenly;
@@ -231,7 +231,7 @@ footer {
 
 footer a {
   text-decoration: none;
-  background: #18394b;
+  background: #FF8C00;
   color: aliceblue;
   display: flex;
   flex-direction: column;
@@ -240,7 +240,7 @@ footer a {
 }
 
 span{
-  background: #18394b;
+  background: #FF8C00;
   color: white;
   padding: 50px;
   
