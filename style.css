@@ -2,17 +2,8 @@
     margin: 0;
     background-color: #FCF6F5;
   padding: 0;
-  /* box-sizing: border-box; */
   font-family: "Fira Sans", Arial, Helvetica, sans-serif;
 }
-/* html,
-body {
-  scroll-behavior: smooth;
-  width: 100%;
-  background-color: var(--color-background);
-  color: var(--color-font);
-} */
-
 #header{
   font-size: 1rem;
   position: sticky;
